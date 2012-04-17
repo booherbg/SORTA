@@ -1,10 +1,11 @@
 Blaine Booher (c) 2012
+Created for a CincyPy talk. See the CincyPyTalk PDF.
 
 A working directory for playing with SORTA data. 
 
 Includes the Cincinnati SORTA database created with the GTFS tool.
 
+The tph/ directory is actually a github repo, so do this once you clone:
+git clone https://git@github.com:booherbg/tph.git
+
 See also tph/stop_info.py for ideas.
-
-
-
